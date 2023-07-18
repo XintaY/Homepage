@@ -1,0 +1,30 @@
+.navbar-color {
+    background-color: white;
+}
+
+.nav-link {
+    color: darkgray;
+}
+
+.btn-outline-primary {
+    color: #5f7ea5;
+    border-color: #5f7ea5;
+}
+
+.my-title {
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.my-text {
+    font-family: 'Outfit';
+    font-weight: 100;
+}
+
+.my-footer {
+    font-family: 'Outfit';
+    color: darkgray;
+    font-weight: 100;
+    font-size: 0.7rem;
+}
